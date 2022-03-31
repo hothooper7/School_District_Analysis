@@ -6,10 +6,10 @@ I have been tasked to help Maria determine if the potential academic dishonesty 
 
 Original vs. Updated District Analysis
 
-Original Budget:
+Original Analysis:
 <img width="942" alt="Original1" src="https://user-images.githubusercontent.com/100809925/161074914-813c70be-2554-48db-9025-1becf34e0016.png">
 
-Updated Budget:
+Updated Analysis:
 <img width="943" alt="Updated1" src="https://user-images.githubusercontent.com/100809925/161075489-8fdc8902-48da-4f09-b1d5-ed61bce47b17.png">
 
 1.	The updated analysis was not affected in a significant way.  All results were changed by less than one percent.  The ninth-grade students at Thomas High School are such a small portion of the total students that these results should be expected.
