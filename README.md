@@ -6,6 +6,12 @@ I have been tasked to help Maria determine if the potential academic dishonesty 
 
 Original vs. Updated District Analysis
 
+Original Budget:
+<img width="938" alt="Original" src="https://user-images.githubusercontent.com/100809925/161073705-f1ab38b0-937d-445b-b501-a53c2b0923f1.png">
+
+Updated Budget:
+<img width="936" alt="Updated" src="https://user-images.githubusercontent.com/100809925/161073823-75341845-4bf7-4564-9fe3-0954483c2142.png">
+
 1.	The updated analysis was not affected in a significant way.  All results were changed by less than one percent.  The ninth-grade students at Thomas High School are such a small portion of the total students that these results should be expected.
 2.	The school district summary provides similar conclusions.  
     - The ranking of top and bottom schools was not affected by the update.
