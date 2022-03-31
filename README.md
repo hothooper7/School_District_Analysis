@@ -10,7 +10,7 @@ Original Budget:
 <img width="942" alt="Original1" src="https://user-images.githubusercontent.com/100809925/161074914-813c70be-2554-48db-9025-1becf34e0016.png">
 
 Updated Budget:
-<img width="936" alt="Updated" src="https://user-images.githubusercontent.com/100809925/161073823-75341845-4bf7-4564-9fe3-0954483c2142.png">
+<img width="943" alt="Updated1" src="https://user-images.githubusercontent.com/100809925/161075489-8fdc8902-48da-4f09-b1d5-ed61bce47b17.png">
 
 1.	The updated analysis was not affected in a significant way.  All results were changed by less than one percent.  The ninth-grade students at Thomas High School are such a small portion of the total students that these results should be expected.
 2.	The school district summary provides similar conclusions.  
