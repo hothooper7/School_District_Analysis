@@ -7,7 +7,7 @@ I have been tasked to help Maria determine if the potential academic dishonesty 
 Original vs. Updated District Analysis
 
 Original Budget:
-<img width="938" alt="Original" src="https://user-images.githubusercontent.com/100809925/161073705-f1ab38b0-937d-445b-b501-a53c2b0923f1.png">
+<img width="942" alt="Original1" src="https://user-images.githubusercontent.com/100809925/161074914-813c70be-2554-48db-9025-1becf34e0016.png">
 
 Updated Budget:
 <img width="936" alt="Updated" src="https://user-images.githubusercontent.com/100809925/161073823-75341845-4bf7-4564-9fe3-0954483c2142.png">
